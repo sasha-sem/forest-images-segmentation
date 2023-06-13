@@ -10,7 +10,7 @@
 В каждом ноутбуке представлены описания, а напоследнем этапе имеются выводы.
 
 Для запуска данных ноутбуков могут понадобится:
--[Исходный датасет](https://www.kaggle.com/datasets/quadeer15sh/augmented-forest-segmentation) 
--[Модели и предобработанный датасет](https://drive.google.com/drive/folders/1qINCVVLKWLtB3KlU8rXcG8TwB2Jbn7aM?usp=sharing) 
+- [Исходный датасет](https://www.kaggle.com/datasets/quadeer15sh/augmented-forest-segmentation) 
+- [Модели и предобработанный датасет](https://drive.google.com/drive/folders/1qINCVVLKWLtB3KlU8rXcG8TwB2Jbn7aM?usp=sharing) 
 
 Работу выполнили: Семененко А.Г. и Дмитриев П.Д.
